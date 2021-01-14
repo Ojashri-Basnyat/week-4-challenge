@@ -16,3 +16,4 @@ Functions used in .js files:
 - countdown : timer that shows how much time the player has to finish the quiz
 - saveHighScore : to save the score a player gets in local storage 
 
+![] (assets/images/Screen Shot 2021-01-13 at 8.05.15 PM.png)
